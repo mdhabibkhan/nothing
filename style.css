@@ -47,7 +47,7 @@
 
 .img{
     width: 550px;
-    height: 652px;
+    height: 710px;
     padding-top: 80px;
     padding-right: 150px;
     
@@ -122,6 +122,39 @@
     padding-top: 10px;
 } 
 /* feature section end here */
+
+/* garden section start here */
+    .garden-section{
+        margin-top: 100px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    .gerden-title{
+        color: #272727;
+        font-size: 40px;
+        font-weight: 800;
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+    }
+    .gerden-des{
+       text-align: center; 
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    }
+    .image-garden{
+        text-align: center;
+        width: 1300px;
+        margin: auto;
+        height: 800px;
+        border-radius: 5px;
+    }
+
+/* garden section end here */
 
 /* hot deal start here */
 .hot-section{
